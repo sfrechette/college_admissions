@@ -1,0 +1,8 @@
+name: college_admissions
+account: sfrechette
+server: shinyapps.io
+bundleId: 276850
+url: https://sfrechette.shinyapps.io/college_admissions
+when: 1443522621.49553
+asMultiple: FALSE
+asStatic: FALSE
