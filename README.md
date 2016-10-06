@@ -7,7 +7,7 @@ To run on your local machine, paste the following into your R console:
 library(dplyr)
 library(ggvis)
 library(shiny)
-runGitHub("college_admissions", "sfrechette")
+runGitHub("collegeadmissions-shiny", "sfrechette")
 ```
 
 I have also published this app on Shiny for you to explore and interact with https://sfrechette.shinyapps.io/college_admissions
